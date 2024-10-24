@@ -32,3 +32,9 @@
     left: 260px;
     bottom: 5px
 }
+
+body {
+    background-image: url(../assets/PS.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
