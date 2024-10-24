@@ -9,9 +9,16 @@
     background-color: #C9ACFF;
 }
 
-.cardplace{
-    width: 400px;
+.cardplaceleft{
+    width: 420px;
     position: absolute;
-    left: 390px;
+    left: 350px;
+    bottom: 70px
+}
+
+.cardplaceright{
+    width: 420px;
+    position: absolute;
+    right: 350px;
     bottom: 70px
 }
