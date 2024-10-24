@@ -26,6 +26,14 @@
     bottom: 70px
 }
 
+.cardplacecenter{
+    width: 455px;
+    position: center;
+    
+    
+}
+
+
 .Btn{
     
     position: absolute;
