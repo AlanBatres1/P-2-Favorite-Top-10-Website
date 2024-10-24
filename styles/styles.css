@@ -8,3 +8,10 @@
 .bg-purple{
     background-color: #C9ACFF;
 }
+
+.cardplace{
+    width: 400px;
+    position: absolute;
+    left: 390px;
+    bottom: 70px
+}
