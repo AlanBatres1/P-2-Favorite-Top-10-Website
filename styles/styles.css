@@ -1,4 +1,10 @@
 
+
+.bgimage{
+    background-image: url();
+    background-size: cover;
+}
+
 .bg-purple{
     background-color: #C9ACFF;
 }
