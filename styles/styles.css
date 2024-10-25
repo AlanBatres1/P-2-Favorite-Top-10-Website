@@ -50,6 +50,10 @@ body {
     background-repeat: no-repeat;
 }
 
+.whitefont{
+    color: white;
+}
+
 .font{
 font-family: Jersey10;
 color: black;
@@ -64,4 +68,9 @@ color: black;
 .imgsize{
     width: 430px;
     height: 450px;
+}
+
+.modalfix{
+    background-color: #343232;
+    width: 600px;
 }
