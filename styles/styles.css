@@ -60,3 +60,8 @@ color: black;
 .pick{
     font-size: 50px;
 }
+
+.imgsize{
+    width: 420px;
+    height: 450px;
+}
