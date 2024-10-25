@@ -1,5 +1,8 @@
 
-
+@font-face {
+    font-family: Jersey10;
+    src: url(/assets/Jersey10-Regular.ttf);
+}
 .bgimage{
     background-image: url(/assets/Coocked.png);
     background-size: cover;
@@ -45,4 +48,15 @@ body {
     background-image: url(../assets/PS.png);
     background-size: cover;
     background-repeat: no-repeat;
+}
+
+.font{
+font-family: Jersey10;
+color: black;
+}
+.size{
+    font-size: 40px;
+}
+.pick{
+    font-size: 50px;
 }
